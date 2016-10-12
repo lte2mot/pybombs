@@ -19,7 +19,7 @@
 # Boston, MA 02110-1301, USA.
 #
 """
-A requirer is a class that has requirements.
+A requirer is a class that itself has dependencies on packages.
 """
 
 import argparse
